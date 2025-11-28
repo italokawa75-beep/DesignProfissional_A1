@@ -6,11 +6,11 @@ A matéria Algoritmo e Pensamento Computacional tem como objetivo desenvolver ha
 
   Objetivos do Repositório
 
-✔ Registrar minha aprendizagem em lógica e algoritmos
-✔ Organizar todos os exercícios da disciplina
-✔ Criar um portfólio que demonstra meu desenvolvimento técnico
-✔ Facilitar revisões e futuras consultas
-✔ Treinar boas práticas de programação e organização de projetos
+Registrar minha aprendizagem em lógica e algoritmos
+ Organizar todos os exercícios da disciplina
+Criar um portfólio que demonstra meu desenvolvimento técnico
+ Facilitar revisões e futuras consultas
+Treinar boas práticas de programação e organização de projetos
 
  Tecnologias Utilizadas
 
